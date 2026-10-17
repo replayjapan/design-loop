@@ -49,6 +49,16 @@ Examples:
 - “Research a mobile checkout pattern, then implement the agreed flow.”
 - “Review the running page for desktop and phone layout problems.”
 
+### Related plugins
+
+These plugins work together, and each one also works on its own.
+
+| Plugin | What it does |
+| --- | --- |
+| [Fabex](https://github.com/replayjapan/fabex) | Claude and Codex work as partners: each considers your request independently, then they agree before acting. |
+| [Modes](https://github.com/replayjapan/modes) | Choose what your AI may do right now: build, research and plan, or just answer a question. |
+| [AI Usage Tracker](https://github.com/replayjapan/ai-usage-tracker) | See your remaining Claude and Codex allowance and where a project's tokens went. |
+
 ## FOR AI BROTHREN
 
 Use [the Design Loop skill](skills/design-loop/SKILL.md) for meaningful UI work.
