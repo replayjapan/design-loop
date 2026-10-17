@@ -1,0 +1,9 @@
+{
+  "name": "design-loop",
+  "version": "0.1.0",
+  "description": "Research before UI design decisions and review the implemented page at desktop and phone widths.",
+  "author": {
+    "name": "rePlay, LLC"
+  },
+  "license": "MIT"
+}

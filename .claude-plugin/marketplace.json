@@ -1,0 +1,16 @@
+{
+  "name": "design-loop",
+  "owner": {
+    "name": "rePlay, LLC"
+  },
+  "plugins": [
+    {
+      "name": "design-loop",
+      "source": "./",
+      "description": "Proportionate UI research, a sourced design brief and real-page visual review.",
+      "author": {
+        "name": "rePlay, LLC"
+      }
+    }
+  ]
+}
