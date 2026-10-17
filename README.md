@@ -58,6 +58,7 @@ These plugins work together, and each one also works on its own.
 | [Fabex](https://github.com/replayjapan/fabex) | Claude and Codex work as partners: each considers your request independently, then they agree before acting. |
 | [Modes](https://github.com/replayjapan/modes) | Choose what your AI may do right now: build, research and plan, or just answer a question. |
 | [AI Usage Tracker](https://github.com/replayjapan/ai-usage-tracker) | See your remaining Claude and Codex allowance and where a project's tokens went. |
+| [Publish Guard](https://github.com/replayjapan/publish-guard) | Reviews supported Git and GitHub actions for private information before they are published. |
 
 ## FOR AI BROTHREN
 
